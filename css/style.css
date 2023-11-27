@@ -269,7 +269,8 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 20px;box-sizing: border-box;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .cat-item:hover .table-overlay {
