@@ -269,8 +269,7 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 20px;
-  box-sizing: border-box;
+  padding: 20px;box-sizing: border-box;
 }
 
 .cat-item:hover .table-overlay {
@@ -294,6 +293,7 @@
 
 .property-item img {
   transition: 0.5s;
+  max-height: 300px;
 }
 
 .property-item:hover img {
