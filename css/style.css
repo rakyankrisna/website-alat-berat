@@ -306,6 +306,9 @@
 .property-item .border-end {
   border-right: 1px dashed #86d0cf !important;
 }
+.carousel-inner {
+  max-height: 230px;
+}
 
 /*** Team ***/
 .team-item {
